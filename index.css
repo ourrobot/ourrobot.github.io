@@ -1,0 +1,12 @@
+.page-content {
+    display: grid;
+    grid-template-columns: 50% 50% ;
+
+}
+
+.page-content > div, h2, button{
+  background-color: wheat;
+
+  margin: 10px;
+  Border-radius: 0px;
+}
